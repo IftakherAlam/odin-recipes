@@ -1,1 +1,1 @@
-## Simple Recipes Site using HTML && CSS
+## Simple Recipe Site using HTML && CSS
